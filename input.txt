@@ -1,0 +1,10 @@
+ip01
+iPhone 14pro
+28.5
+d:\Lập trình hướng đối tượng\LAB4_TRUONGTHIBAONHI_65132499\ip14pro.jpgip02
+iPhone 15plus
+24.3
+d:\Lập trình hướng đối tượng\LAB4_TRUONGTHIBAONHI_65132499\ip15plus.jpgip03
+iPhone 15pro
+30.8
+d:\Lập trình hướng đối tượng\LAB4_TRUONGTHIBAONHI_65132499\ip15pro.jpg
